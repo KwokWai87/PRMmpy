@@ -1,0 +1,4 @@
+Timer does not support DAC triggering
+unsupported bits
+Pin(%q) doesn't have DAC capabilities
+DAC(%d) doesn't exist

@@ -1,0 +1,7 @@
+ExtInt vector %d < 16, use a Pin object
+ExtInt vector %d >= max of %d
+invalid ExtInt Mode: %d
+invalid ExtInt Pull: %d
+ExtInt vector %d is already in use
+ExtInt vector %d is already in use
+IRQ resource already taken by Pin('%q')

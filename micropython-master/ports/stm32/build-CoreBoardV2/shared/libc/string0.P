@@ -1,0 +1,8 @@
+build-CoreBoardV2/shared/libc/string0.o: ../../shared/libc/string0.c \
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdint.h \
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdint-gcc.h \
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stddef.h
+../../shared/libc/string0.c :
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdint.h :
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdint-gcc.h :
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stddef.h :

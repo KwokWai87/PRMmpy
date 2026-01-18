@@ -1,0 +1,6 @@
+Pin(%q) doesn't have ADC capabilities
+not a valid ADC Channel: %d
+need at least 1 ADC
+length of ADC and buffer lists differ
+size and type of buffers must match
+resolution %d not supported

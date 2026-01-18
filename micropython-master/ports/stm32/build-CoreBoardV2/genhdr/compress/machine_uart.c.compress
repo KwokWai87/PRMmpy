@@ -1,0 +1,9 @@
+unsupported combination of bits and parity
+UART(%d) doesn't exist
+UART is static and rxbuf can't be changed
+set baudrate %d is not within 5%% of desired value
+UART(%s) doesn't exist
+UART(%d) doesn't exist
+UART(%d) is reserved
+handler must be None or callable
+trigger 0x%08x unsupported

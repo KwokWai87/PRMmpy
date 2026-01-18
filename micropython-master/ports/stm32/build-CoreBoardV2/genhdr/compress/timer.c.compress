@@ -1,0 +1,18 @@
+must have positive freq
+must have positive freq
+period too large
+need a Timer object
+must specify either freq, period, or prescaler and period
+invalid mode (%d)
+Timer(%d) doesn't exist
+Timer(%d) is reserved
+invalid channel (%d)
+pin argument needs to be be a Pin type
+Pin(%q) doesn't have an af for Timer(%d)
+invalid polarity (%d)
+invalid polarity (%d)
+invalid polarity (%d)
+encoder not supported on timer %d
+invalid mode (%d)
+callback must be None or a callable object
+callback must be None or a callable object

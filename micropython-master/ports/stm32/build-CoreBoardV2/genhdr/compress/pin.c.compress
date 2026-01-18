@@ -1,0 +1,5 @@
+Pin.mapper didn't return a Pin object
+Pin(%s) doesn't exist
+invalid pin mode: %d
+invalid pin pull: %d
+invalid pin af: %d

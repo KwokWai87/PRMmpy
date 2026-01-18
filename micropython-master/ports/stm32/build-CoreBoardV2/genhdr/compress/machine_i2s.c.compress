@@ -1,0 +1,15 @@
+invalid SCK pin
+SCK not a Pin type
+invalid WS pin
+WS not a Pin type
+invalid SD pin
+SD not a Pin type
+invalid mode
+invalid bits
+invalid format
+invalid ibuf
+I2S init failed
+DMA init failed
+invalid id
+invalid callback
+invalid bits

@@ -1,0 +1,4 @@
+SPI(%s) doesn't exist
+SPI(%d) doesn't exist
+SPI(%d) is reserved
+expecting an SPI object

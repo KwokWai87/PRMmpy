@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mphal.h": "c",
+        "runtime.h": "c",
+        "string.h": "c"
+    }
+}

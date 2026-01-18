@@ -1,0 +1,7 @@
+too many logical units
+unsupported logical unit
+bad USB mode
+handler must be None or callable
+unsupported trigger
+hard unsupported
+tuple/list too large for HID report; use bytearray instead

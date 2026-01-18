@@ -1,0 +1,23 @@
+build-CoreBoardV2/drivers/wiznet5k/ethernet/w5500/w5500.o: \
+ ../../drivers/wiznet5k/ethernet/w5500/w5500.c \
+ ../../drivers/wiznet5k/ethernet/w5500/w5500.h \
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdint.h \
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/stdint.h \
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/_default_types.h \
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/features.h \
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/_newlib_version.h \
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_intsup.h \
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_stdint.h \
+ ../../drivers/wiznet5k/ethernet/w5500/../wizchip_conf.h \
+ ../../drivers/wiznet5k/ethernet/w5500/../w5500/w5500.h
+ ../../drivers/wiznet5k/ethernet/w5500/w5500.c :
+ ../../drivers/wiznet5k/ethernet/w5500/w5500.h :
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdint.h :
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/stdint.h :
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/_default_types.h :
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/features.h :
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/_newlib_version.h :
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_intsup.h :
+ /usr/local/share/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_stdint.h :
+ ../../drivers/wiznet5k/ethernet/w5500/../wizchip_conf.h :
+ ../../drivers/wiznet5k/ethernet/w5500/../w5500/w5500.h :
